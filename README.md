@@ -99,6 +99,14 @@ repositories:
 ```
 
 ---
+## Future work
+
+For avoiding obstacle we can use additional waypoints such that new path changes and dont go through the obstacle.
+And for adding additional waypoints we can use algorithm like RRT or RRT*.
+
+
+
+---
 
 ##  Visualization
 
